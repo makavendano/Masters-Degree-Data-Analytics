@@ -5,10 +5,10 @@ The point of this project is to build on initial data preparation, cleaning, and
 **Logistic Regression**<br>
 Employs logistic regression algorithms in describing phenomena.<br>
 
-**Multiple Regression**<br>
+<br>**Multiple Regression**<br>
 Employs multiple regression algorithms with categorical and numerical predictors in describing phenomena.
 
-**Regression Implications**<br>
+<br>**Regression Implications**<br>
 Makes assertions based on regression modeling.<br>
 
 ## Tools Used: 
