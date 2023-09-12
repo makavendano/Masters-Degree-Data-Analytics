@@ -3,12 +3,12 @@ The point of this project is to build on initial data preparation, cleaning, and
 
 ## Competencies 
 **Logistic Regression**<br>
-Employs logistic regression algorithms in describing phenomena.
+Employs logistic regression algorithms in describing phenomena.<br>
 **Multiple Regression**<br>
 Employs multiple regression algorithms with categorical and numerical predictors in describing
-phenomena.
+phenomena.<br>
 **Regression Implications**<br>
-Makes assertions based on regression modeling.
+Makes assertions based on regression modeling.<br>
 
 ## Tools Used: 
 - Python
