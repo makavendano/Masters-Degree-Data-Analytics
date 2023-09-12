@@ -14,7 +14,3 @@ The point of this project is to continue building proficiency in the data analyt
 ## Tools Used: 
 - Python
 - Excel
-
-## Showcase of skills: 
-- Data Cleaning
-- Data Exploration
