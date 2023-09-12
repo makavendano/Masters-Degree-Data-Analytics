@@ -12,7 +12,3 @@ The point of this project is to build proficiency in Standard Query Language (SQ
 
 **Physical Data Model**
 <br>Implements physical data models.
-
-## Showcase of Skills: 
-- Data Exploration
-- Data Acquisition
