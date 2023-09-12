@@ -8,8 +8,6 @@ The point of this project is to build proficiency in Standard Query Language (SQ
 
 ## Competencies 
 **Dimension, Quality Relations, and Limitations** 
-
-
 <br>Examines the data available for analysis to determine their dimension, quality, relations, and limitations.
 
 **Physical Data Model**
