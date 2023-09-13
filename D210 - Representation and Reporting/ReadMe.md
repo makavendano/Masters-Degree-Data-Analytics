@@ -6,10 +6,8 @@ The point of this project is to focus on communicating observations and patterns
 ## Competencies 
 **Storytelling with Data**<br>
 Communicates data insights to technical and nontechnical audiences.
-
 <br>**Data Visualizations and Reporting**<br>
 Creates data representations to offer insight into an organizational problem. 
-
 <br>**Dashboards**<br>
 Designs interactive dashboards to support executive decision-making.<br>
 
