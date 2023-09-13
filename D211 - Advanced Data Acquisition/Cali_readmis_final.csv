@@ -1,0 +1,754 @@
+Year,Strata,Strata Name,County,Total Admits (ICD-9),30-day Readmits (ICD-9)
+2011,Overall,Overall,State,1948641,272268
+2011,Age,18 to 44 years,State,326070,36855
+2011,Age,45 to 64 years,State,659801,90891
+2011,Age,65 years and above,State,962771,144522
+2011,Sex,Male,State,901776,132417
+2011,Sex,Female,State,1046865,139851
+2011,Race-Ethnicity,White,State,1127791,150492
+2011,Race-Ethnicity,Hispanic,State,416845,58534
+2011,Race-Ethnicity,African-American,State,190344,34566
+2011,Race-Ethnicity,Asian/Pacific Islander,State,147502,20294
+2011,Race-Ethnicity,Native American,State,5389,714
+2011,Race-Ethnicity,Other/Unknown,State,60771,7668
+2011,Expected Payer,MediCare,State,1020088,162185
+2011,Expected Payer,Medi-Cal,State,252872,44936
+2011,Expected Payer,Private,State,494787,48258
+2011,Expected Payer,Self-Pay,State,75026,6563
+2011,Expected Payer,Other,State,105869,10326
+2011,Overall,Overall,Alameda,75103,11377
+2011,Overall,Overall,Alpine,13,1
+2011,Overall,Overall,Amador,2657,345
+2011,Overall,Overall,Butte,20422,3198
+2011,Overall,Overall,Calaveras,3253,392
+2011,Overall,Overall,Colusa,1113,132
+2011,Overall,Overall,Contra Costa,55458,7580
+2011,Overall,Overall,Del Norte,1455,206
+2011,Overall,Overall,El Dorado,9890,1305
+2011,Overall,Overall,Fresno,49558,6865
+2011,Overall,Overall,Glenn,1745,209
+2011,Overall,Overall,Humboldt,7053,686
+2011,Overall,Overall,Imperial,9140,1194
+2011,Overall,Overall,Inyo,794,57
+2011,Overall,Overall,Kern,46535,6514
+2011,Overall,Overall,Kings,7388,1011
+2011,Overall,Overall,Lake,5843,893
+2011,Overall,Overall,Lassen,1151,108
+2011,Overall,Overall,Los Angeles,534319,83066
+2011,Overall,Overall,Madera,7137,888
+2011,Overall,Overall,Marin,12210,1414
+2011,Overall,Overall,Mariposa,1160,144
+2011,Overall,Overall,Mendocino,5360,653
+2011,Overall,Overall,Merced,12482,1754
+2011,Overall,Overall,Modoc,405,38
+2011,Overall,Overall,Mono,245,17
+2011,Overall,Overall,Monterey,18178,1973
+2011,Overall,Overall,Napa,8444,1251
+2011,Overall,Overall,Nevada,6098,782
+2011,Overall,Overall,Orange,137953,18428
+2011,Overall,Overall,Placer,18464,2258
+2011,Overall,Overall,Plumas,1098,151
+2011,Overall,Overall,Riverside,110802,14936
+2011,Overall,Overall,Sacramento,76052,10610
+2011,Overall,Overall,San Benito,2806,375
+2011,Overall,Overall,San Bernardino,105064,14941
+2011,Overall,Overall,San Diego,157874,21258
+2011,Overall,Overall,San Francisco,39616,5620
+2011,Overall,Overall,San Joaquin,35737,4914
+2011,Overall,Overall,San Luis Obispo,14239,1603
+2011,Overall,Overall,San Mateo,29726,3701
+2011,Overall,Overall,Santa Barbara,18297,1963
+2011,Overall,Overall,Santa Clara,68595,9076
+2011,Overall,Overall,Santa Cruz,11076,1222
+2011,Overall,Overall,Shasta,15075,1739
+2011,Overall,Overall,Sierra,182,26
+2011,Overall,Overall,Siskiyou,2376,201
+2011,Overall,Overall,Solano,20548,2850
+2011,Overall,Overall,Sonoma,23404,2757
+2011,Overall,Overall,Stanislaus,30837,4278
+2011,Overall,Overall,Sutter,5851,720
+2011,Overall,Overall,Tehama,3509,421
+2011,Overall,Overall,Trinity,1038,154
+2011,Overall,Overall,Tulare,23641,3258
+2011,Overall,Overall,Tuolumne,4131,521
+2011,Overall,Overall,Ventura,42145,5195
+2011,Overall,Overall,Yolo,7620,904
+2011,Overall,Overall,Yuba,4902,724
+2012,Overall,Overall,State,1905961,263431
+2012,Age,18 to 44 years,State,318458,36818
+2012,Age,45 to 64 years,State,645384,89020
+2012,Age,65 years and above,State,942119,137593
+2012,Sex,Male,State,892006,129377
+2012,Sex,Female,State,1013955,134054
+2012,Race-Ethnicity,White,State,1086174,143344
+2012,Race-Ethnicity,Hispanic,State,426051,59594
+2012,Race-Ethnicity,African-American,State,184109,32604
+2012,Race-Ethnicity,Asian/Pacific Islander,State,144598,19494
+2012,Race-Ethnicity,Native American,State,5727,818
+2012,Race-Ethnicity,Other/Unknown,State,59302,7577
+2012,Expected Payer,MediCare,State,1001655,155200
+2012,Expected Payer,Medi-Cal,State,250143,44870
+2012,Expected Payer,Private,State,466366,45431
+2012,Expected Payer,Self-Pay,State,71327,5842
+2012,Expected Payer,Other,State,116470,12088
+2012,Overall,Overall,Alameda,72083,10448
+2012,Overall,Overall,Alpine,10,0
+2012,Overall,Overall,Amador,2775,411
+2012,Overall,Overall,Butte,20895,3279
+2012,Overall,Overall,Calaveras,3218,432
+2012,Overall,Overall,Colusa,1125,179
+2012,Overall,Overall,Contra Costa,55974,7733
+2012,Overall,Overall,Del Norte,1411,168
+2012,Overall,Overall,El Dorado,9993,1350
+2012,Overall,Overall,Fresno,48216,6769
+2012,Overall,Overall,Glenn,1772,245
+2012,Overall,Overall,Humboldt,7180,743
+2012,Overall,Overall,Imperial,8957,1339
+2012,Overall,Overall,Inyo,787,61
+2012,Overall,Overall,Kern,43650,5926
+2012,Overall,Overall,Kings,6903,911
+2012,Overall,Overall,Lake,5559,800
+2012,Overall,Overall,Lassen,1081,138
+2012,Overall,Overall,Los Angeles,517164,79235
+2012,Overall,Overall,Madera,6823,806
+2012,Overall,Overall,Marin,11917,1354
+2012,Overall,Overall,Mariposa,1097,111
+2012,Overall,Overall,Mendocino,5333,648
+2012,Overall,Overall,Merced,11481,1635
+2012,Overall,Overall,Modoc,413,46
+2012,Overall,Overall,Mono,248,23
+2012,Overall,Overall,Monterey,17916,1916
+2012,Overall,Overall,Napa,8202,1153
+2012,Overall,Overall,Nevada,5879,717
+2012,Overall,Overall,Orange,137256,18165
+2012,Overall,Overall,Placer,18788,2238
+2012,Overall,Overall,Plumas,870,100
+2012,Overall,Overall,Riverside,110558,14965
+2012,Overall,Overall,Sacramento,74683,10124
+2012,Overall,Overall,San Benito,2595,314
+2012,Overall,Overall,San Bernardino,104267,14826
+2012,Overall,Overall,San Diego,154878,20519
+2012,Overall,Overall,San Francisco,39423,5738
+2012,Overall,Overall,San Joaquin,34783,4833
+2012,Overall,Overall,San Luis Obispo,13129,1416
+2012,Overall,Overall,San Mateo,29701,3652
+2012,Overall,Overall,Santa Barbara,18375,1956
+2012,Overall,Overall,Santa Clara,67166,8898
+2012,Overall,Overall,Santa Cruz,11000,1236
+2012,Overall,Overall,Shasta,13926,1615
+2012,Overall,Overall,Sierra,127,18
+2012,Overall,Overall,Siskiyou,2351,189
+2012,Overall,Overall,Solano,20450,2812
+2012,Overall,Overall,Sonoma,22853,2637
+2012,Overall,Overall,Stanislaus,30191,4083
+2012,Overall,Overall,Sutter,6078,766
+2012,Overall,Overall,Tehama,3494,458
+2012,Overall,Overall,Trinity,945,124
+2012,Overall,Overall,Tulare,22013,2974
+2012,Overall,Overall,Tuolumne,4012,503
+2012,Overall,Overall,Ventura,40670,4831
+2012,Overall,Overall,Yolo,7462,945
+2012,Overall,Overall,Yuba,4898,685
+2013,Overall,Overall,State,1861345,253497
+2013,Age,18 to 44 years,State,301875,35056
+2013,Age,45 to 64 years,State,624032,85059
+2013,Age,65 years and above,State,935438,133382
+2013,Sex,Male,State,880727,126320
+2013,Sex,Female,State,980618,127177
+2013,Race-Ethnicity,White,State,1055454,137269
+2013,Race-Ethnicity,Hispanic,State,419755,57734
+2013,Race-Ethnicity,African-American,State,176708,30804
+2013,Race-Ethnicity,Asian/Pacific Islander,State,145024,19589
+2013,Race-Ethnicity,Native American,State,5745,803
+2013,Race-Ethnicity,Other/Unknown,State,58659,7298
+2013,Expected Payer,MediCare,State,996331,150578
+2013,Expected Payer,Medi-Cal,State,248917,43643
+2013,Expected Payer,Private,State,432777,41667
+2013,Expected Payer,Self-Pay,State,64227,5148
+2013,Expected Payer,Other,State,119093,12461
+2013,Overall,Overall,Alameda,67673,9761
+2013,Overall,Overall,Alpine,9,0
+2013,Overall,Overall,Amador,2616,357
+2013,Overall,Overall,Butte,21019,3383
+2013,Overall,Overall,Calaveras,3160,418
+2013,Overall,Overall,Colusa,1054,128
+2013,Overall,Overall,Contra Costa,54166,7369
+2013,Overall,Overall,Del Norte,1424,193
+2013,Overall,Overall,El Dorado,9982,1288
+2013,Overall,Overall,Fresno,48385,6770
+2013,Overall,Overall,Glenn,1695,238
+2013,Overall,Overall,Humboldt,7185,754
+2013,Overall,Overall,Imperial,8325,1189
+2013,Overall,Overall,Inyo,722,34
+2013,Overall,Overall,Kern,41048,5473
+2013,Overall,Overall,Kings,6558,922
+2013,Overall,Overall,Lake,5456,802
+2013,Overall,Overall,Lassen,988,91
+2013,Overall,Overall,Los Angeles,495144,73527
+2013,Overall,Overall,Madera,6855,874
+2013,Overall,Overall,Marin,11477,1220
+2013,Overall,Overall,Mariposa,1016,106
+2013,Overall,Overall,Mendocino,5355,612
+2013,Overall,Overall,Merced,11581,1614
+2013,Overall,Overall,Modoc,365,41
+2013,Overall,Overall,Mono,249,15
+2013,Overall,Overall,Monterey,17588,2002
+2013,Overall,Overall,Napa,7829,1068
+2013,Overall,Overall,Nevada,5831,774
+2013,Overall,Overall,Orange,133419,17189
+2013,Overall,Overall,Placer,18470,2139
+2013,Overall,Overall,Plumas,828,92
+2013,Overall,Overall,Riverside,110940,14914
+2013,Overall,Overall,Sacramento,77051,10602
+2013,Overall,Overall,San Benito,2616,335
+2013,Overall,Overall,San Bernardino,104088,14890
+2013,Overall,Overall,San Diego,152109,19775
+2013,Overall,Overall,San Francisco,38608,5708
+2013,Overall,Overall,San Joaquin,34379,4705
+2013,Overall,Overall,San Luis Obispo,12778,1335
+2013,Overall,Overall,San Mateo,29190,3583
+2013,Overall,Overall,Santa Barbara,18594,1995
+2013,Overall,Overall,Santa Clara,67810,8985
+2013,Overall,Overall,Santa Cruz,10453,1058
+2013,Overall,Overall,Shasta,13737,1449
+2013,Overall,Overall,Sierra,94,9
+2013,Overall,Overall,Siskiyou,2459,249
+2013,Overall,Overall,Solano,20395,2736
+2013,Overall,Overall,Sonoma,22136,2515
+2013,Overall,Overall,Stanislaus,29926,4109
+2013,Overall,Overall,Sutter,6109,802
+2013,Overall,Overall,Tehama,3460,445
+2013,Overall,Overall,Trinity,931,125
+2013,Overall,Overall,Tulare,20826,2686
+2013,Overall,Overall,Tuolumne,4050,530
+2013,Overall,Overall,Ventura,38847,4814
+2013,Overall,Overall,Yolo,7225,904
+2013,Overall,Overall,Yuba,4804,683
+2014,Overall,Overall,State,1831817,248714
+2014,Age,18 to 44 years,State,297297,34881
+2014,Age,45 to 64 years,State,623743,84969
+2014,Age,65 years and above,State,910777,128864
+2014,Sex,Male,State,872476,124726
+2014,Sex,Female,State,959341,123988
+2014,Race-Ethnicity,White,State,1025747,133419
+2014,Race-Ethnicity,Hispanic,State,416091,56201
+2014,Race-Ethnicity,African-American,State,177701,31259
+2014,Race-Ethnicity,Asian/Pacific Islander,State,144113,19175
+2014,Race-Ethnicity,Native American,State,5741,791
+2014,Race-Ethnicity,Other/Unknown,State,62424,7869
+2014,Expected Payer,MediCare,State,970341,145784
+2014,Expected Payer,Medi-Cal,State,364154,56168
+2014,Expected Payer,Private,State,415763,39775
+2014,Expected Payer,Self-Pay,State,31122,2131
+2014,Expected Payer,Other,State,50437,4856
+2014,Overall,Overall,Alameda,65219,9398
+2014,Overall,Overall,Alpine,11,0
+2014,Overall,Overall,Amador,2599,319
+2014,Overall,Overall,Butte,21081,3558
+2014,Overall,Overall,Calaveras,2901,387
+2014,Overall,Overall,Colusa,1039,144
+2014,Overall,Overall,Contra Costa,52940,7257
+2014,Overall,Overall,Del Norte,1352,162
+2014,Overall,Overall,El Dorado,9331,1102
+2014,Overall,Overall,Fresno,46943,6283
+2014,Overall,Overall,Glenn,1898,272
+2014,Overall,Overall,Humboldt,7543,821
+2014,Overall,Overall,Imperial,7519,1046
+2014,Overall,Overall,Inyo,834,64
+2014,Overall,Overall,Kern,40730,5474
+2014,Overall,Overall,Kings,6126,761
+2014,Overall,Overall,Lake,5053,771
+2014,Overall,Overall,Lassen,1028,129
+2014,Overall,Overall,Los Angeles,489218,72658
+2014,Overall,Overall,Madera,6780,835
+2014,Overall,Overall,Marin,10679,1167
+2014,Overall,Overall,Mariposa,1089,147
+2014,Overall,Overall,Mendocino,5164,590
+2014,Overall,Overall,Merced,11433,1530
+2014,Overall,Overall,Modoc,322,25
+2014,Overall,Overall,Mono,270,33
+2014,Overall,Overall,Monterey,16384,1666
+2014,Overall,Overall,Napa,7288,932
+2014,Overall,Overall,Nevada,5736,711
+2014,Overall,Overall,Orange,130679,16685
+2014,Overall,Overall,Placer,17446,1973
+2014,Overall,Overall,Plumas,854,120
+2014,Overall,Overall,Riverside,111062,14744
+2014,Overall,Overall,Sacramento,78028,10662
+2014,Overall,Overall,San Benito,2594,325
+2014,Overall,Overall,San Bernardino,101796,14251
+2014,Overall,Overall,San Diego,150420,19696
+2014,Overall,Overall,San Francisco,37820,5785
+2014,Overall,Overall,San Joaquin,36070,4990
+2014,Overall,Overall,San Luis Obispo,12268,1316
+2014,Overall,Overall,San Mateo,27209,3434
+2014,Overall,Overall,Santa Barbara,18621,1965
+2014,Overall,Overall,Santa Clara,65778,8641
+2014,Overall,Overall,Santa Cruz,10498,1078
+2014,Overall,Overall,Shasta,13566,1462
+2014,Overall,Overall,Sierra,127,10
+2014,Overall,Overall,Siskiyou,2143,203
+2014,Overall,Overall,Solano,19610,2685
+2014,Overall,Overall,Sonoma,21862,2540
+2014,Overall,Overall,Stanislaus,30096,4036
+2014,Overall,Overall,Sutter,5555,724
+2014,Overall,Overall,Tehama,3368,420
+2014,Overall,Overall,Trinity,889,122
+2014,Overall,Overall,Tulare,20841,2622
+2014,Overall,Overall,Tuolumne,3973,505
+2014,Overall,Overall,Ventura,38377,4630
+2014,Overall,Overall,Yolo,7365,829
+2014,Overall,Overall,Yuba,4585,707
+2015,Overall,Overall,State,1405652,190134
+2015,Age,18 to 44 years,State,224205,26273
+2015,Age,45 to 64 years,State,471180,64617
+2015,Age,65 years and above,State,710267,99244
+2015,Sex,Male,State,673048,95720
+2015,Sex,Female,State,732603,94414
+2015,Race-Ethnicity,White,State,775900,100644
+2015,Race-Ethnicity,Hispanic,State,322838,43565
+2015,Race-Ethnicity,African-American,State,136249,23774
+2015,Race-Ethnicity,Asian/Pacific Islander,State,114847,14968
+2015,Race-Ethnicity,Native American,State,4349,571
+2015,Race-Ethnicity,Other/Unknown,State,51469,6612
+2015,Expected Payer,MediCare,State,754450,112694
+2015,Expected Payer,Medi-Cal,State,289672,43044
+2015,Expected Payer,Private,State,309116,29820
+2015,Expected Payer,Self-Pay,State,16879,1372
+2015,Expected Payer,Other,State,35535,3204
+2015,Overall,Overall,Alameda,49269,6917
+2015,Overall,Overall,Alpine,9,0
+2015,Overall,Overall,Amador,2124,282
+2015,Overall,Overall,Butte,16661,2907
+2015,Overall,Overall,Calaveras,2174,269
+2015,Overall,Overall,Colusa,757,83
+2015,Overall,Overall,Contra Costa,41392,5752
+2015,Overall,Overall,Del Norte,889,94
+2015,Overall,Overall,El Dorado,7038,809
+2015,Overall,Overall,Fresno,36503,5072
+2015,Overall,Overall,Glenn,1401,162
+2015,Overall,Overall,Humboldt,5666,568
+2015,Overall,Overall,Imperial,5769,779
+2015,Overall,Overall,Inyo,637,60
+2015,Overall,Overall,Kern,30391,3770
+2015,Overall,Overall,Kings,4683,606
+2015,Overall,Overall,Lake,3891,520
+2015,Overall,Overall,Lassen,751,78
+2015,Overall,Overall,Los Angeles,374849,55914
+2015,Overall,Overall,Madera,5174,656
+2015,Overall,Overall,Marin,8072,878
+2015,Overall,Overall,Mariposa,854,113
+2015,Overall,Overall,Mendocino,3816,460
+2015,Overall,Overall,Merced,9474,1274
+2015,Overall,Overall,Modoc,265,24
+2015,Overall,Overall,Mono,193,11
+2015,Overall,Overall,Monterey,12919,1353
+2015,Overall,Overall,Napa,5362,697
+2015,Overall,Overall,Nevada,4384,570
+2015,Overall,Overall,Orange,100168,12602
+2015,Overall,Overall,Placer,12961,1452
+2015,Overall,Overall,Plumas,694,67
+2015,Overall,Overall,Riverside,86333,11733
+2015,Overall,Overall,Sacramento,59197,8068
+2015,Overall,Overall,San Benito,1935,231
+2015,Overall,Overall,San Bernardino,75949,10305
+2015,Overall,Overall,San Diego,115410,15086
+2015,Overall,Overall,San Francisco,28548,3963
+2015,Overall,Overall,San Joaquin,26778,3453
+2015,Overall,Overall,San Luis Obispo,9677,1020
+2015,Overall,Overall,San Mateo,21159,2730
+2015,Overall,Overall,Santa Barbara,14130,1574
+2015,Overall,Overall,Santa Clara,51175,6733
+2015,Overall,Overall,Santa Cruz,8197,885
+2015,Overall,Overall,Shasta,10130,1031
+2015,Overall,Overall,Sierra,85,5
+2015,Overall,Overall,Siskiyou,1724,168
+2015,Overall,Overall,Solano,14646,1964
+2015,Overall,Overall,Sonoma,17382,2014
+2015,Overall,Overall,Stanislaus,23119,3075
+2015,Overall,Overall,Sutter,4325,544
+2015,Overall,Overall,Tehama,2602,325
+2015,Overall,Overall,Trinity,709,100
+2015,Overall,Overall,Tulare,16424,2243
+2015,Overall,Overall,Tuolumne,3144,410
+2015,Overall,Overall,Ventura,30175,3862
+2015,Overall,Overall,Yolo,5852,726
+2015,Overall,Overall,Yuba,3521,527
+2016,Overall,Overall,State,1877198,271871
+2016,Age,18 to 44 years,State,293632,35595
+2016,Age,45 to 64 years,State,626524,92315
+2016,Age,65 years and above,State,957042,143961
+2016,Sex,Male,State,910008,139661
+2016,Sex,Female,State,967172,132208
+2016,Race-Ethnicity,White,State,1032282,143721
+2016,Race-Ethnicity,Hispanic,State,432751,62673
+2016,Race-Ethnicity,African-American,State,180302,32780
+2016,Race-Ethnicity,Asian/Pacific Islander,State,154342,21573
+2016,Race-Ethnicity,Native American,State,6156,1082
+2016,Race-Ethnicity,Other/Unknown,State,71365,10042
+2016,Expected Payer,MediCare,State,1016129,162152
+2016,Expected Payer,Medi-Cal,State,395694,61921
+2016,Expected Payer,Private,State,401717,41734
+2016,Expected Payer,Self-Pay,State,20467,1698
+2016,Expected Payer,Other,State,43191,4366
+2016,Overall,Overall,Alameda,65203,9759
+2016,Overall,Overall,Alpine,21,1
+2016,Overall,Overall,Amador,2814,390
+2016,Overall,Overall,Butte,22675,4041
+2016,Overall,Overall,Calaveras,2868,400
+2016,Overall,Overall,Colusa,971,121
+2016,Overall,Overall,Contra Costa,52750,7662
+2016,Overall,Overall,Del Norte,1238,125
+2016,Overall,Overall,El Dorado,10298,1418
+2016,Overall,Overall,Fresno,50589,8296
+2016,Overall,Overall,Glenn,1935,281
+2016,Overall,Overall,Humboldt,7804,937
+2016,Overall,Overall,Imperial,7981,1198
+2016,Overall,Overall,Inyo,757,77
+2016,Overall,Overall,Kern,41749,5561
+2016,Overall,Overall,Kings,6718,1030
+2016,Overall,Overall,Lake,5375,845
+2016,Overall,Overall,Lassen,856,96
+2016,Overall,Overall,Los Angeles,493868,77874
+2016,Overall,Overall,Madera,6997,1059
+2016,Overall,Overall,Marin,11232,1321
+2016,Overall,Overall,Mariposa,1117,154
+2016,Overall,Overall,Mendocino,5158,666
+2016,Overall,Overall,Merced,13467,2087
+2016,Overall,Overall,Modoc,314,29
+2016,Overall,Overall,Mono,308,31
+2016,Overall,Overall,Monterey,17789,2066
+2016,Overall,Overall,Napa,7363,1002
+2016,Overall,Overall,Nevada,5671,807
+2016,Overall,Overall,Orange,133527,17983
+2016,Overall,Overall,Placer,18698,2180
+2016,Overall,Overall,Plumas,907,107
+2016,Overall,Overall,Riverside,113451,16431
+2016,Overall,Overall,Sacramento,77797,11095
+2016,Overall,Overall,San Benito,2505,306
+2016,Overall,Overall,San Bernardino,104398,15630
+2016,Overall,Overall,San Diego,151703,20891
+2016,Overall,Overall,San Francisco,37697,5583
+2016,Overall,Overall,San Joaquin,36298,5369
+2016,Overall,Overall,San Luis Obispo,12941,1502
+2016,Overall,Overall,San Mateo,27003,3461
+2016,Overall,Overall,Santa Barbara,19086,2236
+2016,Overall,Overall,Santa Clara,68322,9691
+2016,Overall,Overall,Santa Cruz,10584,1171
+2016,Overall,Overall,Shasta,14114,1675
+2016,Overall,Overall,Sierra,132,15
+2016,Overall,Overall,Siskiyou,2269,233
+2016,Overall,Overall,Solano,21124,3069
+2016,Overall,Overall,Sonoma,23675,2898
+2016,Overall,Overall,Stanislaus,30756,4167
+2016,Overall,Overall,Sutter,5796,816
+2016,Overall,Overall,Tehama,3645,482
+2016,Overall,Overall,Trinity,888,110
+2016,Overall,Overall,Tulare,21561,3136
+2016,Overall,Overall,Tuolumne,3887,582
+2016,Overall,Overall,Ventura,40230,5489
+2016,Overall,Overall,Yolo,8078,1083
+2016,Overall,Overall,Yuba,4758,731
+2017,Overall,Overall,State,1882970,274920
+2017,Age,18 to 44 years,State,285406,35961
+2017,Age,45 to 64 years,State,611131,90987
+2017,Age,65 years and above,State,986433,147972
+2017,Sex,Female,State,964335,133017
+2017,Sex,Male,State,918635,141903
+2017,Race-Ethnicity,African-American,State,177645,33032
+2017,Race-Ethnicity,Asian/Pacific Islander,State,156473,22034
+2017,Race-Ethnicity,Hispanic,State,442597,65083
+2017,Race-Ethnicity,Native American,State,6269,1027
+2017,Race-Ethnicity,Other/Unknown,State,78602,10982
+2017,Race-Ethnicity,White,State,1021384,142762
+2017,Expected Payer,Medi-Cal,State,391220,61700
+2017,Expected Payer,MediCare,State,1037090,164931
+2017,Expected Payer,Other,State,42158,4514
+2017,Expected Payer,Private,State,392007,42024
+2017,Expected Payer,Self-Pay,State,20495,1751
+2017,Overall,Overall,Alameda,64950,9676
+2017,Overall,Overall,Alpine,9,
+2017,Overall,Overall,Amador,2970,405
+2017,Overall,Overall,Butte,23283,4406
+2017,Overall,Overall,Calaveras,2997,399
+2017,Overall,Overall,Colusa,988,124
+2017,Overall,Overall,Contra Costa,53095,8016
+2017,Overall,Overall,Del Norte,1390,161
+2017,Overall,Overall,El Dorado,10457,1457
+2017,Overall,Overall,Fresno,49058,7239
+2017,Overall,Overall,Glenn,1957,290
+2017,Overall,Overall,Humboldt,7593,919
+2017,Overall,Overall,Imperial,8276,1240
+2017,Overall,Overall,Inyo,838,79
+2017,Overall,Overall,Kern,41270,5728
+2017,Overall,Overall,Kings,6417,945
+2017,Overall,Overall,Lake,5354,853
+2017,Overall,Overall,Lassen,831,69
+2017,Overall,Overall,Los Angeles,481784,75361
+2017,Overall,Overall,Madera,6784,931
+2017,Overall,Overall,Marin,11379,1412
+2017,Overall,Overall,Mariposa,1184,167
+2017,Overall,Overall,Mendocino,5348,681
+2017,Overall,Overall,Merced,14017,2182
+2017,Overall,Overall,Modoc,349,42
+2017,Overall,Overall,Mono,280,22
+2017,Overall,Overall,Monterey,18362,2179
+2017,Overall,Overall,Napa,7243,1000
+2017,Overall,Overall,Nevada,5666,778
+2017,Overall,Overall,Orange,132179,17820
+2017,Overall,Overall,Placer,19073,2178
+2017,Overall,Overall,Plumas,840,97
+2017,Overall,Overall,Riverside,111614,16334
+2017,Overall,Overall,Sacramento,80190,12074
+2017,Overall,Overall,San Benito,2464,320
+2017,Overall,Overall,San Bernardino,104537,15991
+2017,Overall,Overall,San Diego,151905,20823
+2017,Overall,Overall,San Francisco,36376,5449
+2017,Overall,Overall,San Joaquin,37377,5636
+2017,Overall,Overall,San Luis Obispo,13019,1469
+2017,Overall,Overall,San Mateo,26998,3435
+2017,Overall,Overall,Santa Barbara,19072,2351
+2017,Overall,Overall,Santa Clara,70038,10082
+2017,Overall,Overall,Santa Cruz,10702,1323
+2017,Overall,Overall,Shasta,14022,1647
+2017,Overall,Overall,Sierra,96,7
+2017,Overall,Overall,Siskiyou,2122,193
+2017,Overall,Overall,Solano,20236,2951
+2017,Overall,Overall,Sonoma,23479,3024
+2017,Overall,Overall,Stanislaus,30327,4137
+2017,Overall,Overall,Sutter,5639,734
+2017,Overall,Overall,Tehama,3474,485
+2017,Overall,Overall,Trinity,869,115
+2017,Overall,Overall,Tulare,22274,3157
+2017,Overall,Overall,Tuolumne,3730,493
+2017,Overall,Overall,Ventura,39966,5535
+2017,Overall,Overall,Yolo,8171,1134
+2017,Overall,Overall,Yuba,4909,758
+2018,Overall,Overall,State,1867521,275515
+2018,Age,18 to 44 years,State,281989,35161
+2018,Age,45 to 64 years,State,595858,89815
+2018,Age,65 years and above,State,989674,150539
+2018,Sex,Female,State,948082,131904
+2018,Sex,Male,State,919439,143611
+2018,Race-Ethnicity,African-American,State,178356,33262
+2018,Race-Ethnicity,Asian/Pacific Islander,State,158478,22622
+2018,Race-Ethnicity,Hispanic,State,449680,66002
+2018,Race-Ethnicity,Native American,State,6639,1146
+2018,Race-Ethnicity,Other/Unknown,State,80394,11349
+2018,Race-Ethnicity,White,State,993974,141134
+2018,Expected Payer,Medi-Cal,State,389464,61814
+2018,Expected Payer,MediCare,State,1030609,165581
+2018,Expected Payer,Other,State,42786,4451
+2018,Expected Payer,Private,State,382592,41772
+2018,Expected Payer,Self-Pay,State,22070,1897
+2018,Overall,Overall,Alameda,62646,9882
+2018,Overall,Overall,Alpine,18,2
+2018,Overall,Overall,Amador,2877,458
+2018,Overall,Overall,Butte,23190,4151
+2018,Overall,Overall,Calaveras,2941,411
+2018,Overall,Overall,Colusa,1195,185
+2018,Overall,Overall,Contra Costa,51183,7884
+2018,Overall,Overall,Del Norte,1416,178
+2018,Overall,Overall,El Dorado,10371,1434
+2018,Overall,Overall,Fresno,48893,7348
+2018,Overall,Overall,Glenn,2126,314
+2018,Overall,Overall,Humboldt,7449,957
+2018,Overall,Overall,Imperial,8453,1205
+2018,Overall,Overall,Inyo,852,79
+2018,Overall,Overall,Kern,39488,5471
+2018,Overall,Overall,Kings,6010,879
+2018,Overall,Overall,Lake,5227,813
+2018,Overall,Overall,Lassen,798,72
+2018,Overall,Overall,Los Angeles,475044,74910
+2018,Overall,Overall,Madera,7023,999
+2018,Overall,Overall,Marin,10779,1365
+2018,Overall,Overall,Mariposa,1069,139
+2018,Overall,Overall,Mendocino,5400,795
+2018,Overall,Overall,Merced,14124,2236
+2018,Overall,Overall,Modoc,300,37
+2018,Overall,Overall,Mono,296,31
+2018,Overall,Overall,Monterey,19247,2399
+2018,Overall,Overall,Napa,6819,1059
+2018,Overall,Overall,Nevada,5779,799
+2018,Overall,Overall,Orange,130341,17385
+2018,Overall,Overall,Placer,18737,2199
+2018,Overall,Overall,Plumas,970,125
+2018,Overall,Overall,Riverside,112715,16709
+2018,Overall,Overall,Sacramento,77626,11686
+2018,Overall,Overall,San Benito,2487,349
+2018,Overall,Overall,San Bernardino,104972,15905
+2018,Overall,Overall,San Diego,153864,21665
+2018,Overall,Overall,San Francisco,34999,5032
+2018,Overall,Overall,San Joaquin,36982,5533
+2018,Overall,Overall,San Luis Obispo,12990,1587
+2018,Overall,Overall,San Mateo,25690,3319
+2018,Overall,Overall,Santa Barbara,18914,2242
+2018,Overall,Overall,Santa Clara,65621,9447
+2018,Overall,Overall,Santa Cruz,9985,1159
+2018,Overall,Overall,Shasta,13815,1750
+2018,Overall,Overall,Sierra,103,10
+2018,Overall,Overall,Siskiyou,1952,201
+2018,Overall,Overall,Solano,19873,3011
+2018,Overall,Overall,Sonoma,22588,3036
+2018,Overall,Overall,Stanislaus,30021,3980
+2018,Overall,Overall,Sutter,5966,774
+2018,Overall,Overall,Tehama,3848,581
+2018,Overall,Overall,Trinity,845,107
+2018,Overall,Overall,Tulare,20948,2781
+2018,Overall,Overall,Tuolumne,3495,420
+2018,Overall,Overall,Ventura,39246,5691
+2018,Overall,Overall,Yolo,7761,1032
+2018,Overall,Overall,Yuba,5056,737
+2019,Overall,Overall,State,1866911,277886
+2019,Age,18 to 44 years,State,281814,35346
+2019,Age,45 to 64 years,State,587775,89400
+2019,Age,65 years and above,State,997322,153140
+2019,Sex,Female,State,942816,131796
+2019,Sex,Male,State,924095,146090
+2019,Race-Ethnicity,African-American,State,174725,32319
+2019,Race-Ethnicity,Asian/Pacific Islander,State,160310,22926
+2019,Race-Ethnicity,Hispanic,State,459080,68439
+2019,Race-Ethnicity,Multiracial,State,15870,2941
+2019,Race-Ethnicity,Native American,State,9212,1331
+2019,Race-Ethnicity,Other/Unknown,State,79096,10967
+2019,Race-Ethnicity,White,State,968618,138963
+2019,Expected Payer,Medi-Cal,State,390274,62869
+2019,Expected Payer,MediCare,State,1040179,168152
+2019,Expected Payer,Other,State,45174,5107
+2019,Expected Payer,Private,State,367681,39787
+2019,Expected Payer,Self-Pay,State,23603,1971
+2019,Overall,Overall,Unknown County,374,59
+2019,Overall,Overall,Alameda,62440,9756
+2019,Overall,Overall,Alpine,10,0
+2019,Overall,Overall,Amador,2894,392
+2019,Overall,Overall,Butte,21958,3973
+2019,Overall,Overall,Calaveras,3051,467
+2019,Overall,Overall,Colusa,1196,170
+2019,Overall,Overall,Contra Costa,50840,7765
+2019,Overall,Overall,Del Norte,1463,170
+2019,Overall,Overall,El Dorado,10281,1439
+2019,Overall,Overall,Fresno,48532,7442
+2019,Overall,Overall,Glenn,2264,350
+2019,Overall,Overall,Humboldt,7263,947
+2019,Overall,Overall,Imperial,8295,1253
+2019,Overall,Overall,Inyo,958,99
+2019,Overall,Overall,Kern,40793,5885
+2019,Overall,Overall,Kings,6360,937
+2019,Overall,Overall,Lake,5108,822
+2019,Overall,Overall,Lassen,774,76
+2019,Overall,Overall,Los Angeles,465091,73376
+2019,Overall,Overall,Madera,6743,865
+2019,Overall,Overall,Marin,10086,1222
+2019,Overall,Overall,Mariposa,1115,124
+2019,Overall,Overall,Mendocino,5228,708
+2019,Overall,Overall,Merced,13468,2112
+2019,Overall,Overall,Modoc,372,50
+2019,Overall,Overall,Mono,333,33
+2019,Overall,Overall,Monterey,19847,2651
+2019,Overall,Overall,Napa,6551,1049
+2019,Overall,Overall,Nevada,5684,760
+2019,Overall,Overall,Orange,127580,17412
+2019,Overall,Overall,Placer,18957,2282
+2019,Overall,Overall,Plumas,851,100
+2019,Overall,Overall,Riverside,114978,17036
+2019,Overall,Overall,Sacramento,75730,11297
+2019,Overall,Overall,San Benito,2276,305
+2019,Overall,Overall,San Bernardino,104217,16022
+2019,Overall,Overall,San Diego,155859,21752
+2019,Overall,Overall,San Francisco,34983,5090
+2019,Overall,Overall,San Joaquin,37222,5817
+2019,Overall,Overall,San Luis Obispo,12891,1622
+2019,Overall,Overall,San Mateo,25264,3279
+2019,Overall,Overall,Santa Barbara,19432,2249
+2019,Overall,Overall,Santa Clara,64589,9259
+2019,Overall,Overall,Santa Cruz,10316,1283
+2019,Overall,Overall,Shasta,13651,1715
+2019,Overall,Overall,Sierra,116,12
+2019,Overall,Overall,Siskiyou,2009,201
+2019,Overall,Overall,Solano,20472,3144
+2019,Overall,Overall,Sonoma,22767,3150
+2019,Overall,Overall,Stanislaus,30499,4321
+2019,Overall,Overall,Sutter,5740,789
+2019,Overall,Overall,Tehama,3895,578
+2019,Overall,Overall,Trinity,784,86
+2019,Overall,Overall,Tulare,22009,3112
+2019,Overall,Overall,Tuolumne,3581,484
+2019,Overall,Overall,Ventura,40324,6006
+2019,Overall,Overall,Yolo,7958,1129
+2019,Overall,Overall,Yuba,5078,789
+2020,Overall,Overall,State,1623952,235905
+2020,Age,18 to 44 years,State,256350,30887
+2020,Age,45 to 64 years,State,515144,76269
+2020,Age,65 years and above,State,852458,128749
+2020,Sex,Female,State,795504,110363
+2020,Sex,Male,State,828448,125542
+2020,Race-Ethnicity,African-American,State,150491,27072
+2020,Race-Ethnicity,Asian/Pacific Islander,State,136051,19173
+2020,Race-Ethnicity,Hispanic,State,426687,60377
+2020,Race-Ethnicity,Multiracial,State,20462,3524
+2020,Race-Ethnicity,Native American,State,5542,849
+2020,Race-Ethnicity,Other/Unknown,State,74035,9871
+2020,Race-Ethnicity,White,State,810684,115039
+2020,Expected Payer,Medi-Cal,State,355605,54947
+2020,Expected Payer,MediCare,State,886758,141143
+2020,Expected Payer,Other,State,38983,4157
+2020,Expected Payer,Private,State,323226,34163
+2020,Expected Payer,Self-Pay,State,19380,1495
+2020,Overall,Overall,Alameda,54864,8381
+2020,Overall,Overall,Alpine,7,2
+2020,Overall,Overall,Amador,2484,353
+2020,Overall,Overall,Butte,19635,3585
+2020,Overall,Overall,Calaveras,2648,358
+2020,Overall,Overall,Colusa,998,137
+2020,Overall,Overall,Contra Costa,44201,6583
+2020,Overall,Overall,Del Norte,1174,112
+2020,Overall,Overall,El Dorado,9180,1332
+2020,Overall,Overall,Fresno,44932,6844
+2020,Overall,Overall,Glenn,1983,288
+2020,Overall,Overall,Humboldt,5984,738
+2020,Overall,Overall,Imperial,7229,1015
+2020,Overall,Overall,Inyo,855,91
+2020,Overall,Overall,Kern,36595,4963
+2020,Overall,Overall,Kings,5721,835
+2020,Overall,Overall,Lake,4191,618
+2020,Overall,Overall,Lassen,614,59
+2020,Overall,Overall,Los Angeles,391234,59374
+2020,Overall,Overall,Madera,5855,797
+2020,Overall,Overall,Marin,8660,1092
+2020,Overall,Overall,Mariposa,1007,128
+2020,Overall,Overall,Mendocino,4856,673
+2020,Overall,Overall,Merced,11523,1752
+2020,Overall,Overall,Modoc,338,45
+2020,Overall,Overall,Mono,274,30
+2020,Overall,Overall,Monterey,17352,2283
+2020,Overall,Overall,Napa,5168,747
+2020,Overall,Overall,Nevada,5158,682
+2020,Overall,Overall,Orange,109124,14464
+2020,Overall,Overall,Placer,17443,2120
+2020,Overall,Overall,Plumas,681,80
+2020,Overall,Overall,Riverside,101235,14085
+2020,Overall,Overall,Sacramento,69182,10274
+2020,Overall,Overall,San Benito,2082,291
+2020,Overall,Overall,San Bernardino,91071,12977
+2020,Overall,Overall,San Diego,137277,19112
+2020,Overall,Overall,San Francisco,31482,4799
+2020,Overall,Overall,San Joaquin,32822,4992
+2020,Overall,Overall,San Luis Obispo,11003,1398
+2020,Overall,Overall,San Mateo,21940,2851
+2020,Overall,Overall,Santa Barbara,17361,2026
+2020,Overall,Overall,Santa Clara,56393,8118
+2020,Overall,Overall,Santa Cruz,9178,1151
+2020,Overall,Overall,Shasta,12277,1591
+2020,Overall,Overall,Sierra,95,11
+2020,Overall,Overall,Siskiyou,1791,186
+2020,Overall,Overall,Solano,17619,2598
+2020,Overall,Overall,Sonoma,19924,2664
+2020,Overall,Overall,Stanislaus,27464,3868
+2020,Overall,Overall,Sutter,5415,776
+2020,Overall,Overall,Tehama,3505,445
+2020,Overall,Overall,Trinity,693,85
+2020,Overall,Overall,Tulare,18786,2653
+2020,Overall,Overall,Tuolumne,3304,474
+2020,Overall,Overall,Ventura,34820,4945
+2020,Overall,Overall,Yolo,6945,976
+2020,Overall,Overall,Yuba,4513,712
